@@ -5,7 +5,7 @@ const { config } = require("vuepress-theme-hope");
 
 const GITHUB_USERNAME = 'TimZaleski'
 
-
+ 
 module.exports = config({
   base: "/blog/",
   title: 'Codeworks Student Learning Blog',
