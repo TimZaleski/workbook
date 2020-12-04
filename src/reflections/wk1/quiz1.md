@@ -50,7 +50,7 @@ I would change the font-weight property.
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+I am guessing either <html> or <main>.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
@@ -62,11 +62,11 @@ OL, UL, and DL
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+The display: flex property gives the contained elements a dynamic flex context, which makes positioning easier and more friendly accross different dimensions.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+The size of the margin, border, padding, and the element affect the size of the box model.
 ```
