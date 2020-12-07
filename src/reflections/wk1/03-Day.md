@@ -1,3 +1,5 @@
+# Day 3
+
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 My favorite tip is using accent borders to add a modern look to otherwise blad design. As someone with zero artistic ability, this almost seems like cheating. The amount of effort required to produce a visually pleasing element is ideal for someone like me.
 

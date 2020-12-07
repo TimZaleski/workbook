@@ -1,3 +1,5 @@
+# Day 4
+
 ## What is the purpose of wire-framing?
 Wire framing assists in depicting page structure and layout, as well as intended user behavior. The process of wire-framing allows stakeholders and customers to get a visualization of the UI before development is started.
 
