@@ -7,4 +7,4 @@ The three ways to write a function are declaration, expressions, and arrow funct
 Parameters are the names created in the function definition. Arguments are the values that the function receives from each parameter.
 
 ## What are higher order functions? Can you provide an example?
-Higher order functions take in as a parameter or return functions.
+Higher order functions take in as a parameter or return functions. Array.prototype.map and Array.prototype.filter are examples of higher order functions.
