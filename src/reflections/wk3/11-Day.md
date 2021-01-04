@@ -1,7 +1,7 @@
 # Day 11
 
 ## What problem does using exports solve?
-Having multiple .js files affects performance, exports lets you only need one.
+Having multiple .js files affects performance. With exports, you can combine all scripts into one main script.
 
 ## How does export differ from export default?
 Export default lets you export with default values.
