@@ -8,3 +8,5 @@ Promises cleans up code with chaining, making it easier to read.
 
 ## What is the difference between then and catch?
 Then is used for when the promise has successfully resolved. Catch is used when the promise fails.
+
+https://timzaleski.github.io/apigl/
