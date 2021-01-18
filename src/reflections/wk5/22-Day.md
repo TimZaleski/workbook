@@ -2,6 +2,10 @@
 
 ## What are the three types of relationships?
 The three types of relationships are One-to-one, One-to-many, and Many-to-many.
+Examples:
+1:1 Each class has one teacher, and that teacher is assigned to only one class.
+1:M Each student has multiple assignments, but those assignments have only one author.
+M:N Each student has multiple classes, and each class has multiple students.
 
 ## What are the benefits of the traditional linking of relationships instead of embedding?
 With linking on a foreign key, you don't increase the size of the original document. The results are also easier to parse.
