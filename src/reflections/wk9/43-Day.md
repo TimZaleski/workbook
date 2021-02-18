@@ -1,10 +1,10 @@
 # Day 43
 
-## How are some ways Scrum for a small team would differ from Scrum with a large team?
-You need to reduce the traditional amount and length of scrum meetings to salvage your time that the development team has to work. Small teams need to manage their communication more effectively.
+## What is an Enum, and what are some use cases for them?
+Enums allow you to give names to certain values. Some Enum examples could be days of the week (Sunday 0, Monday 1 etc), report options(!).
 
-## Why does Scrum prescribe to only run 1 sprint at a time?
-Having multiple sprints run in parallel makes time time management aspect of scrum extremely difficult. Having one sprint be dependent on another's timeline is not a flexible strategy.
+## How can you modify an Enum?
+You can set the value of an enum. You can also change any member of an enum to a valid value for it's base type.
 
-## What is the unattainable triangle and what purpose does it have in Scrum?
-The unattainable triangle is that you are allowed two from this list: good, cheap, and fast. Scrum can help you prioritize which of these principles to emphasize on your project.
+## How have you used Enums in your afternoon lab projects this far?(if you have not yet, give an example of how you could) 
+I think I did in a side project during class, when I used a dice roller for non-numeric result dice.
