@@ -15,3 +15,5 @@ CREATE TABLE characters
 
 ## What is the difference between the following statements: DELETE FROM table_name; DROP TABLE table_name;
 DELETE clears out a table but leaves the table intact. DROP TABLE removes the table from the db completely.
+
+https://github.com/TimZaleski/burgerapi
